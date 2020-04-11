@@ -6,6 +6,6 @@ setup(name='sfopy',
       url='http://github.com/gavin-s-smith/sfopy',
       author='Gavin Smith',
       author_email='gavin.smith@nottingham.ac.uk',
-      license='See README',
+      license='MIT',
       packages=['sfopy'],
       zip_safe=False)

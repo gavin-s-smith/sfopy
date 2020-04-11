@@ -6,7 +6,7 @@ Functions ported:
 
 * sfo_min_norm_point: Fujishige's minimum-norm-point algorithm for minimizing general submodular functions
 
-pip install via:
+pip install via (currently import after install is not working):
 ```
 pip3 install --no-cache-dir --upgrade git+https://github.com/gavin-s-smith/sfopy
 ```
